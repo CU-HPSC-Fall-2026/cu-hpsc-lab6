@@ -1,10 +1,10 @@
+#include "mpi_sync_printf.h"
 #include <mpi.h>
 #include <math.h>
 #include "parse.h"
 #include "rdtsc.h"
 #include <stdio.h>
 #include <stdlib.h>
-#include "mpi_sync_printf.h"
 
 #define ROOT_RANK 0
 

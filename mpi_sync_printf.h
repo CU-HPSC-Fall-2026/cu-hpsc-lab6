@@ -1,3 +1,4 @@
+#define _GNU_SOURCE
 #include "mpi.h"
 #include <string.h>
 #include <stdarg.h>
